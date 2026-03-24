@@ -1,0 +1,116 @@
+{
+  "snacks": [
+    {
+      "id": "1",
+      "name": "Burger",
+      "price": 50,
+      "ordersCount": 9
+    },
+    {
+      "id": "2",
+      "name": "Pizza",
+      "price": 80,
+      "ordersCount": 5
+    },
+    {
+      "id": "3",
+      "name": "Sandwich",
+      "price": 40,
+      "ordersCount": 6
+    }
+  ],
+  "students": [
+    {
+      "id": "1",
+      "name": "Alice",
+      "referralCode": "AL123",
+      "totalSpent": 580,
+      "orders": []
+    },
+    {
+      "name": "Anil",
+      "referralCode": "mtln2",
+      "totalSpent": 130,
+      "id": "xTfxw88EcPQ"
+    },
+    {
+      "name": "Rohit",
+      "referralCode": "pg0l9",
+      "totalSpent": 40,
+      "id": "NoAISHcuDMM"
+    }
+  ],
+  "orders": [
+    {
+      "studentId": "1",
+      "quantity": "",
+      "snackId": "3",
+      "amount": 0,
+      "id": "H8XHlqngegA"
+    },
+    {
+      "studentId": "1",
+      "quantity": "",
+      "snackId": "2",
+      "amount": 0,
+      "id": "WoM5eXCrEuU"
+    },
+    {
+      "studentId": "1",
+      "quantity": "",
+      "snackId": "1",
+      "amount": 0,
+      "id": "vYwyRZ3DJMU"
+    },
+    {
+      "studentId": "1",
+      "quantity": "1",
+      "snackId": "1",
+      "amount": 50,
+      "id": "AGcW_l31TC0"
+    },
+    {
+      "studentId": "1",
+      "quantity": "2",
+      "snackId": "3",
+      "amount": 80,
+      "id": "ohIl4h--H2Q"
+    },
+    {
+      "studentId": "1",
+      "quantity": "5",
+      "snackId": "3",
+      "amount": 200,
+      "id": "WmE04HuwvnQ"
+    },
+    {
+      "studentId": "xTfxw88EcPQ",
+      "quantity": "1",
+      "snackId": "2",
+      "amount": 80,
+      "id": "cPbO_GKsnTU"
+    },
+    {
+      "studentId": "1",
+      "quantity": "1",
+      "snackId": "1",
+      "amount": 50,
+      "id": "7unU60se7qY"
+    },
+    {
+      "studentId": "xTfxw88EcPQ",
+      "quantity": "1",
+      "snackId": "1",
+      "amount": 50,
+      "id": "zH_IOXsTXwI"
+    },
+    {
+      "studentId": "NoAISHcuDMM",
+      "quantity": "1",
+      "snackId": "3",
+      "amount": 40,
+      "id": "2ew3UmQb6Cw"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
