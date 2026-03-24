@@ -7,6 +7,12 @@ Students can view snacks, place orders, and track their spending.
 
 ## 🚀 Live Features
 
+Live: https://aniledzyai.vercel.app/
+
+## Screen-Recording
+
+Link: https://drive.google.com/file/d/1uX9Jj-hQFZA9YiVvmc7BuDqF26Mg3X13/view?usp=sharing
+
 ### 🥪 Snacks Page
 - View all available snacks
 - See price and total orders count
@@ -70,6 +76,8 @@ npx json-server --watch db.json --port 5000
 
 http://localhost:5000
 
+https://aniledzyai.onrender.com
+
 
 # Start Frontend
 npm run dev
@@ -77,6 +85,8 @@ npm run dev
 👉 Open:
 
 http://localhost:5173
+
+https://aniledzyai.vercel.app/
 
 
 🔌 API Endpoints (Mocked)
